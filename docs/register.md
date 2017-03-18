@@ -1,7 +1,7 @@
 # Register
 
     POST request
-    **Link** - https://reimburse.herokuapp.com/register/ 
+    https://reimburse.herokuapp.com/register/ 
 
 ## Description
 To register a user
@@ -25,6 +25,7 @@ To register a user
 ***
 
 ## Output
+
 - Otp is mailed or messaged.
 - default 444444 can b used.
 - pk field is present only if new user
