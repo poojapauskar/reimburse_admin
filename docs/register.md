@@ -1,6 +1,7 @@
 # Register
 
     POST request
+    **Link** - https://reimburse.herokuapp.com/register/ 
 
 ## Description
 To register a user
