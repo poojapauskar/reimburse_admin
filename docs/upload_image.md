@@ -10,7 +10,7 @@ Upload image using signed url
 
 ## Input 
 
-- Body ( binary data ) : <choose file>
+- Body ( binary data ) : choose file
     
 ***
 

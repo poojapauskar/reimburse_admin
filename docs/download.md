@@ -10,7 +10,7 @@ Download images
 
 ## Headers 
 
-- **IMAGE-ID** — <pk field of image> 
+- **IMAGE-ID** — pk field of image
     
 ***
 

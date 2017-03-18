@@ -10,7 +10,7 @@ Gets the history of all our trips that are approved.
 
 ## Headers 
 
-- **USER-ID** — <pk field of user> 
+- **USER-ID** — pk field of user
     
 ***
 

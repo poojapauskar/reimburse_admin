@@ -46,13 +46,6 @@ To add trip details
     
 ***
 
-## Output
-
-- status: 200
-- message : New Trip Added
-
-***
-
 ## Example Input
 
 - **USER-ID** — 1
@@ -88,3 +81,11 @@ To add trip details
 - **OTHERS-DATE** — 20/2/2010,21/2/2010
 - **OTHERS-MODE-OF-PAYMENT** — cah,cash
 - **OTHERS-IMAGE-ID** — 34,35
+
+## Output
+
+- status: 200
+- message : New Trip Added
+
+***
+
