@@ -8,3 +8,5 @@
 - **[<code>GET</code> getting signed url](https://github.com/reimburse/api-documentation/docs/getting_signed_url.md)**
 - **[<code>GET</code> upload images using signed url](https://github.com/reimburse/api-documentation/docs/upload_image.md)**
 - **[<code>GET</code> download image](https://github.com/reimburse/api-documentation/docs/download.md)**
+- **[<code>GET</code> add trip details](https://github.com/reimburse/api-documentation/docs/add_trip_details.md)**
+- **[<code>GET</code> history](https://github.com/reimburse/api-documentation/docs/history.md)**
