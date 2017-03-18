@@ -8,7 +8,7 @@ To get signed url for images
 
 ***
 
-## HEADERS
+## Input
 
 - Raw data( json format) : {"image_list":["image_1.jpg"]}
     

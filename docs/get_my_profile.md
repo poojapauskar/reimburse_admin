@@ -1,6 +1,6 @@
 # Get my profile
 
-    POST request
+    GET request
     https://reimburse.herokuapp.com/myprofile/?access_token=<user access token>
 
 ## Description

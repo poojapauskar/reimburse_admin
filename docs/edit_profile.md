@@ -1,4 +1,4 @@
-# Register
+# Edit Profile
 
     GET request
     https://reimburse.herokuapp.com/myprofile_update/?access_token=<user access token>

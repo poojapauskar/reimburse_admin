@@ -8,7 +8,7 @@ To login a user
 
 ***
 
-## Input Fields
+## Headers
 
 - **mobile or email** _(required)_ 
     
