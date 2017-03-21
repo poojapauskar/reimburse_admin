@@ -17,15 +17,15 @@ To add trip details
 ## Input fields
 
 Raw Json Data<br />
-{
+{<br />
 	"user_id" : "1",<br />
 	"location" : "Bangalore",<br />
 	"start_date" : "22/11/2017",<br />
 	"end_date" : "25/11/2017",<br />
 	"category" : "Busines trip",<br />
 	"description" : "busines",<br />
-	"itinerary" : [
-			{
+	"itinerary" : [<br />
+			{<br />
 				"name" : "Pai",<br />
 				"amount" : "50.00",<br />
 				"date" : "22/11/2018",<br />
@@ -33,8 +33,8 @@ Raw Json Data<br />
 				"description" : "",<br />
 				"image_id" : "",<br />
 				"mode_of_payment" : ""<br />
-			},
-			{
+			},<br />
+			{<br />
 				"name" : "Hotel",<br />
 				"amount" : "300.00",<br />
 				"date" : "22/11/2018",<br />
@@ -42,17 +42,17 @@ Raw Json Data<br />
 				"description" : "",<br />
 				"image_id" : "",<br />
 				"mode_of_payment" : "cash"<br />
-			}
-	 ]
-	}
+			}<br />
+	 ]<br />
+	}<br />
     
 ***
 
 ## Output
 
-{
+{<br />
   "status": 200,<br />
   "message": "New Trip Added"<br />
-}
+}<br />
 
 ***
