@@ -18,33 +18,33 @@ To add trip details
 
 Raw Json Data<br />
 {<br />
-	"user_id" : "1",<br />
-	"location" : "Bangalore",<br />
-	"start_date" : "22/11/2017",<br />
-	"end_date" : "25/11/2017",<br />
-	"category" : "Busines trip",<br />
-	"description" : "busines",<br />
-	"itinerary" : [<br />
-			{<br />
-				"name" : "Pai",<br />
-				"amount" : "50.00",<br />
-				"date" : "22/11/2018",<br />
-				"category" : "food",<br />
-				"description" : "",<br />
-				"image_id" : "",<br />
-				"mode_of_payment" : ""<br />
-			},<br />
-			{<br />
-				"name" : "Hotel",<br />
-				"amount" : "300.00",<br />
-				"date" : "22/11/2018",<br />
-				"category" : "stay",<br />
-				"description" : "",<br />
-				"image_id" : "",<br />
-				"mode_of_payment" : "cash"<br />
-			}<br />
-	 ]<br />
-	}<br />
+&nbsp;	"user_id" : "1",<br />
+&nbsp;	"location" : "Bangalore",<br />
+&nbsp;	"start_date" : "22/11/2017",<br />
+&nbsp;	"end_date" : "25/11/2017",<br />
+&nbsp;	"category" : "Busines trip",<br />
+&nbsp;	"description" : "busines",<br />
+&nbsp;	"itinerary" : [<br />
+&nbsp;			{<br />
+&nbsp;&nbsp;				"name" : "Pai",<br />
+&nbsp;&nbsp;				"amount" : "50.00",<br />
+&nbsp;&nbsp;				"date" : "22/11/2018",<br />
+&nbsp;&nbsp;				"category" : "food",<br />
+&nbsp;&nbsp;				"description" : "",<br />
+&nbsp;&nbsp;				"image_id" : "",<br />
+&nbsp;&nbsp;				"mode_of_payment" : ""<br />
+&nbsp;			},<br />
+&nbsp;			{<br />
+&nbsp;&nbsp;				"name" : "Hotel",<br />
+&nbsp;&nbsp;				"amount" : "300.00",<br />
+&nbsp;&nbsp;				"date" : "22/11/2018",<br />
+&nbsp;&nbsp;				"category" : "stay",<br />
+&nbsp;&nbsp;				"description" : "",<br />
+&nbsp;&nbsp;				"image_id" : "",<br />
+&nbsp;&nbsp;				"mode_of_payment" : "cash"<br />
+&nbsp;			}<br />
+&nbsp;	 ]<br />
+&nbsp;	}<br />
     
 ***
 
