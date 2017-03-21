@@ -16,8 +16,8 @@ To edit my profile
 
 ## Input fields
 
-Raw Json Data
-{"name":"Pooja SP","email":"p@bitjini.com","mobile":"918792213479","company":"Bitjini IT","gender":"female","age":"25"}
+- Raw Json Data
+- {"name":"","email":"","mobile":"","company":"","gender":"","age":""}
     
 ***
 
