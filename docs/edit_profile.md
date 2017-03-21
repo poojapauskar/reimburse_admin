@@ -18,12 +18,12 @@ To edit my profile
 
 Raw Json Data<br />
 {  
-   "name":"Pooja SP",<br />
-   "email":"p@bitjini.com",<br />
-   "mobile":"918792213479",<br />
-   "company":"Bitjini IT",<br />
-   "gender":"female",<br />
-   "age":"25"<br />
+   "name":"",<br />
+   "email":"",<br />
+   "mobile":"",<br />
+   "company":"",<br />
+   "gender":"",<br />
+   "age":""<br />
 }
     
 ***
