@@ -4,7 +4,7 @@
     https://reimburse.herokuapp.com/mark_trip_as_reimbursed/
 
 ## Description
-To reimburse a trip and set claim=1,status="Approved"
+To set trip status
 
 ***
 
