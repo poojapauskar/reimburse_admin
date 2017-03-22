@@ -4,7 +4,7 @@
     https://reimburse.herokuapp.com/history/
 
 ## Description
-Gets the history of all our trips that are approved.
+Gets the history of an users trips.
 
 ***
 
@@ -16,6 +16,6 @@ Gets the history of all our trips that are approved.
 
 ## Output
 
-- Get all trip details
+- Get all trip details and a field status having values submitted, reimbursed, rejected, completed, archived.
 
 ***
