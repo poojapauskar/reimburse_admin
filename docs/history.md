@@ -16,6 +16,6 @@ Gets the history of an users trips.
 
 ## Output
 
-- Get all trip details and a field status having values submitted, reimbursed, rejected, completed, archived.
+- Get all trip details and a field "status" having values submitted, reimbursed, rejected, completed or archived.
 
 ***
