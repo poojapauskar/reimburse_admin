@@ -11,4 +11,4 @@
 - **[<code>POST</code> add trip details](https://github.com/poojapauskar/reimburse_admin/blob/master/docs/add_trip_details.md)**
 - **[<code>GET</code> history](https://github.com/poojapauskar/reimburse_admin/blob/master/docs/history.md)**
 - **[<code>GET</code> delete trip](https://github.com/poojapauskar/reimburse_admin/blob/master/docs/delete_trip.md)**
-- **[<code>GET</code> mark trip as reimbursed](https://github.com/poojapauskar/reimburse_admin/blob/master/docs/mark_trip_as-reimbursed.md)**
+- **[<code>GET</code> mark trip as reimbursed](https://github.com/poojapauskar/reimburse_admin/blob/master/docs/mark_trip_as_reimbursed.md)**
