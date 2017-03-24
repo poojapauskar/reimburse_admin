@@ -1,16 +1,11 @@
 # Download
 
     GET request
-    https://reimburse.herokuapp.com/download/
+    https://reimburse.herokuapp.com/download/<pk field of image>
 
 ## Description
 Download images
 
-***
-
-## Headers 
-
-- **IMAGE-ID** — pk field of image
     
 ***
 
