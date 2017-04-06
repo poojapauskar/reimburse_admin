@@ -19,8 +19,6 @@ To edit my profile
 Raw Json Data<br />
 {  
    "name":"",<br />
-   "email":"",<br />
-   "mobile":"",<br />
    "company":"",<br />
    "gender":"",<br />
    "age":""<br />
