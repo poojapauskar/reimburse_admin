@@ -21,6 +21,7 @@ To register a user
 - **otp**
 - **is_valid**
 - **access_token** 
+- **image_id** 
     
 ***
 
