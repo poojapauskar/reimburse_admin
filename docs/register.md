@@ -22,6 +22,7 @@ To register a user
 - **is_valid**
 - **access_token** 
 - **image_id** 
+- **gender**
     
 ***
 
