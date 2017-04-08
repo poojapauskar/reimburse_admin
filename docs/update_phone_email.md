@@ -1,7 +1,7 @@
 # Update Email/Phone
 
     POST request
-    https://reimburse.herokuapp.com/update_phone_email/
+    https://reimburse.herokuapp.com/update_phone_email/?access_token=<user access token>
 
 ## Description
 To update email/phone
