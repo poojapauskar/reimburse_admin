@@ -10,7 +10,7 @@ To send claim
 
 ## HEADERS
 
-- TRIP-ID : <pk field of trip added>
+- TRIP-ID : pk field of trip added
     
 ***
 
