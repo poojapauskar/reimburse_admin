@@ -13,3 +13,4 @@
 - **[<code>GET</code> delete trip](https://github.com/poojapauskar/reimburse_admin/blob/master/docs/delete_trip.md)**
 - **[<code>GET</code> mark trip as reimbursed](https://github.com/poojapauskar/reimburse_admin/blob/master/docs/mark_trip_as_reimbursed.md)**
 - **[<code>GET</code> update phone/email](https://github.com/poojapauskar/reimburse_admin/blob/master/docs/update_phone_email.md)**
+- **[<code>GET</code> send claim](https://github.com/poojapauskar/reimburse_admin/blob/master/docs/send_claim.md)**
