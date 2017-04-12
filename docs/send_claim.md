@@ -1,6 +1,6 @@
-# Edit Profile
+# Send Claim
 
-    POST request
+    GET request
     https://reimburse.herokuapp.com/send_claim/
 
 ## Description
