@@ -1,17 +1,11 @@
 # History
 
     GET request
-    https://reimburse.herokuapp.com/history/
+    https://reimburse.herokuapp.com/history/?access_token=<user access token>
 
 ## Description
 Gets the history of an users trips.
 
-***
-
-## Headers 
-
-- **USER-ID** — pk field of user
-    
 ***
 
 ## Output
