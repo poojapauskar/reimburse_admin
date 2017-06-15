@@ -21,8 +21,9 @@ Raw Json Data<br />
    "name":"",<br />
    "company":"",<br />
    "gender":"",<br />
-   "age":""<br />
-   "image_id":""<br />
+   "age":"",<br />
+   "image_id":"",<br />
+   "department":""<br />
 }
     
 ***

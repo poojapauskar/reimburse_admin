@@ -23,6 +23,7 @@ To register a user
 - **access_token** 
 - **image_id** 
 - **gender**
+- **department**
     
 ***
 
