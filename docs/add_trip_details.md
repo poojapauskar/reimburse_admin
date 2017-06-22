@@ -32,6 +32,7 @@ Raw Json Data<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;				"category" : "food",<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;				"description" : "",<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;				"image_id" : "",<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;				"job_id" : "",<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;				"mode_of_payment" : ""<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;			},<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;			{<br />
@@ -41,6 +42,7 @@ Raw Json Data<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;				"category" : "stay",<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;				"description" : "",<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;				"image_id" : "",<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;				"job_id" : "",<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;				"mode_of_payment" : "cash"<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;			}<br />
 &nbsp;	 ]<br />
