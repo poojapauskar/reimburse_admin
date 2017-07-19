@@ -14,3 +14,5 @@
 - **[<code>GET</code> mark trip as reimbursed](https://github.com/poojapauskar/reimburse_admin/blob/master/docs/mark_trip_as_reimbursed.md)**
 - **[<code>GET</code> update phone/email](https://github.com/poojapauskar/reimburse_admin/blob/master/docs/update_phone_email.md)**
 - **[<code>GET</code> send claim](https://github.com/poojapauskar/reimburse_admin/blob/master/docs/send_claim.md)**
+- **[<code>GET</code> get city image](https://github.com/poojapauskar/reimburse_admin/blob/master/docs/get_city_image.md)**
+- **[<code>GET</code> get all cities](https://github.com/poojapauskar/reimburse_admin/blob/master/docs/get_all_cities.md)**
