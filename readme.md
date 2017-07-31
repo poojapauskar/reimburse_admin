@@ -16,3 +16,6 @@
 - **[<code>GET</code> send claim](https://github.com/poojapauskar/reimburse_admin/blob/master/docs/send_claim.md)**
 - **[<code>GET</code> get city image](https://github.com/poojapauskar/reimburse_admin/blob/master/docs/get_city_image.md)**
 - **[<code>GET</code> get all cities](https://github.com/poojapauskar/reimburse_admin/blob/master/docs/get_all_cities.md)**
+- **[<code>POST</code> post active trip](https://github.com/poojapauskar/reimburse_admin/blob/master/docs/post_active_trips.md)**
+- **[<code>POST</code> end active trip](https://github.com/poojapauskar/reimburse_admin/blob/master/docs/end_active_trip.md)**
+- **[<code>GET</code> corporate login](https://github.com/poojapauskar/reimburse_admin/blob/master/docs/corporate_login.md)**
