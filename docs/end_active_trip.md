@@ -19,6 +19,7 @@ To end an Active Trip
 Raw Json Data<br />
 {<br />
 &nbsp;	"trip_id" : "1",<br />
+&nbsp;	"end_date" : "26/12/2018",<br />
 &nbsp;	"itinerary" : [<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;			{<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;				"name" : "Pai",<br />
