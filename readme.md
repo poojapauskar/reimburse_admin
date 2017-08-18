@@ -19,3 +19,4 @@
 - **[<code>POST</code> post active trip](https://github.com/poojapauskar/reimburse_admin/blob/master/docs/post_active_trips.md)**
 - **[<code>POST</code> end active trip](https://github.com/poojapauskar/reimburse_admin/blob/master/docs/end_active_trip.md)**
 - **[<code>GET</code> corporate login](https://github.com/poojapauskar/reimburse_admin/blob/master/docs/corporate_login.md)**
+- **[<code>GET</code> edit active trip](https://github.com/poojapauskar/reimburse_admin/blob/master/docs/edit_active_trip.md)**
