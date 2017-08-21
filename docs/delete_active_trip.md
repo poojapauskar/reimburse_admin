@@ -27,7 +27,7 @@ Raw Json Data<br />
 
 {<br />
   "status": 200,<br />
-  "message": "Active Trip Updated"<br />
+  "message": "Active Trip Deleted"<br />
 }<br />
 
 ***
