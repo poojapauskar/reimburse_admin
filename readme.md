@@ -20,3 +20,4 @@
 - **[<code>GET</code> corporate login](https://github.com/poojapauskar/reimburse_admin/blob/master/docs/corporate_login.md)**
 - **[<code>POST</code> edit active trip](https://github.com/poojapauskar/reimburse_admin/blob/master/docs/edit_active_trip.md)**
 - **[<code>POST</code> delete active trip](https://github.com/poojapauskar/reimburse_admin/blob/master/docs/delete_active_trip.md)**
+- **[<code>GET</code> fetch expenses which are added from server](https://github.com/poojapauskar/reimburse_admin/blob/master/docs/fetch_expenses_of_active_trip.md)**
