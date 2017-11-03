@@ -17,6 +17,7 @@ To get expenses which are added from server
 ## Output
 
 - status: 200
-- trip_details : details of expenses added from server
+- trip_details: details of expenses added from server
+- image_url: url of image
 
 ***
