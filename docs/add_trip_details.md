@@ -18,7 +18,7 @@ To add trip details
 
 Raw Json Data<br />
 {<br />
-&nbsp;	"user_id" : "1",<br />
+&nbsp;	"user_id" : "pk field of user",<br />
 &nbsp;	"location" : "Bangalore",<br />
 &nbsp;	"start_date" : "22/11/2017",<br />
 &nbsp;	"end_date" : "25/11/2017",<br />

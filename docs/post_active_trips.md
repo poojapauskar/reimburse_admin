@@ -18,12 +18,13 @@ To post an active trip
 
 Raw Json Data<br />
 {<br />
-&nbsp;	"user_id" : "1",<br />
+&nbsp;	"user_id" : "pk fields of open acnt user/organiztion user",<br />
 &nbsp;	"location" : "Bangalore",<br />
 &nbsp;	"start_date" : "22/11/2017",<br />
 &nbsp;	"end_date" : "",<br />
 &nbsp;	"category" : "Busines trip",<br />
 &nbsp;	"description" : "busines"<br />
+&nbsp;	"account_token" : "account_token"<br />
 }<br />
     
 ***
