@@ -24,7 +24,7 @@ Raw Json Data<br />
 &nbsp;	"end_date" : "",<br />
 &nbsp;	"category" : "Busines trip",<br />
 &nbsp;	"description" : "busines",<br />
-&nbsp;	"account_token" : "account_token"<br />
+&nbsp;	"account_token" : "account_token of organziation/ blank for normal users"<br />
 }<br />
     
 ***
