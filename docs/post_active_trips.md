@@ -23,7 +23,7 @@ Raw Json Data<br />
 &nbsp;	"start_date" : "22/11/2017",<br />
 &nbsp;	"end_date" : "",<br />
 &nbsp;	"category" : "Busines trip",<br />
-&nbsp;	"description" : "busines"<br />
+&nbsp;	"description" : "busines",<br />
 &nbsp;	"account_token" : "account_token"<br />
 }<br />
     
