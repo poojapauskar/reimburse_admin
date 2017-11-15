@@ -11,6 +11,7 @@ To send claim
 ## HEADERS
 
 - TRIP-ID : pk field of trip added
+- ACCOUNT-TOKEN : account_token of organization/ "open_account" for normal user
     
 ***
 
